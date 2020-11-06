@@ -1,0 +1,59 @@
+
+
+h2{
+	font-size: 30px;
+}
+h3{
+	
+}
+
+body{
+	
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: lighter;
+	display: inline-block;
+	font-variant-position: right;
+	margin-right: 20px;
+	margin-left: 10px;
+	margin-top: 0px;
+ 
+
+}
+
+.formacao{
+	padding-left:  10px;
+	margin-left: 270px;
+}
+
+#for1{
+	font-weight:bold;
+}
+
+#for2{
+	margin-left: 280px;
+	font-weight:bold;
+}
+
+
+.menu{
+
+	font-family: "Times New Roman", Times, serif;
+	font-weight: lighter;
+     height: 100%;
+    position: fixed;
+	
+	font-size: 14.5px;
+      color:#fff;
+      margin-right: 600px;
+      
+}
+
+.item{
+	background: #2F4F4F;
+
+}
+
+#comp{
+	font-weight:bold;
+}
